@@ -2,7 +2,7 @@
 
 decentralized non-fungible token driven social media platform
 
-### what we do
+### What we do
 
 ```markdown
 
